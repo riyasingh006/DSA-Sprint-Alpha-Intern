@@ -1,0 +1,16 @@
+#function:- .it is a block of code that perform some specific task
+            .it is used to aviod repetation of the code and helps to increase the code execution.
+
+synatx:  returnType functioName(){
+    scope 
+    //function body
+}
+
+return type :- void and vector 
+
+#function declaration:- int add(int a int b)
+
+#function call stack:- The function call stack (often just called the stack) is a Last-In, First-Out (LIFO) data structure used by the program at runtime to store information about active function calls.
+
+Every time a function is called, the program creates a stack frame (also called an activation record) on the stack.
+
